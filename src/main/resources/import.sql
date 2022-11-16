@@ -1,0 +1,3 @@
+insert into usuarioclientes(usuario, password, rol) values ('doctor', '$2a$12$4Ey8XHDlIVzBaD0x4hMHsuC5tLmjtEPE.vIJJz.LZ3q9nvMw3NBxu', 'ROLE_ADMINISTRADOR');
+insert into usuarioclientes(usuario, password, rol) values ('secretaria', '$2a$12$4Ey8XHDlIVzBaD0x4hMHsuC5tLmjtEPE.vIJJz.LZ3q9nvMw3NBxu', 'ROLE_EMPLOYEE');
+insert into usuarioclientes(usuario, password, rol) values ('director de sede', '$2a$12$4Ey8XHDlIVzBaD0x4hMHsuC5tLmjtEPE.vIJJz.LZ3q9nvMw3NBxu', 'ROLE_MANAGER');
